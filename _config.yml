@@ -7,3 +7,4 @@ plugins:
   - jekyll-feed
 include:
   - .well-known
+permalink: /blog/:title/

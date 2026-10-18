@@ -1,0 +1,9 @@
+title: Codenz Test Blog
+description: A small test blog for the marketing platform.
+url: https://codenztechnologies.github.io
+baseurl: /blog-test
+theme: minima
+plugins:
+  - jekyll-feed
+include:
+  - .well-known
